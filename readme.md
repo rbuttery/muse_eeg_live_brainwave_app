@@ -26,7 +26,7 @@ This is a PyQt6 app built to simply visualize in real-time the output from our M
 This is how you do it on windows with pip, but this will work in any python environment.
 ```bash
 git clone https://github.com/rbuttery/live_eeg_visualization_app.git
-cd live_eeg_visualization_app
+cd muse_eeg_live_brainwave_app
 python -m venv env
 env\scripts\activate
 pip install -r requirements.txt

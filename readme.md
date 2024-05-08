@@ -7,10 +7,14 @@ The Live Brainwave EEG App is a visualization tool designed to display real-time
 This is a PyQt6 app built to simply visualize in real-time the output from our Muse device.
 
 #### Run & Select which channel you want to see first. 
-![App Screen 2](demo\app2.png "App Screen 2")
+<p align="center">
+  <img src="demo\app2.png" width="750" title="hover text">
+</p>
 
 #### Visualize your brainwaves!
-![App Screen 3](demo\app.gif "App Screen 3")
+<p align="center">
+  <img src="demo\app.gif" width="750" title="hover text">
+</p>
 
 ## Prerequisites
 - **Muse Headband**: This application requires a Muse headband to capture EEG data.
